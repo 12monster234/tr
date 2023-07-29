@@ -1,5 +1,4 @@
 
-
 def palindrome():
     while True:
         s1 = input('Введите строку ')
